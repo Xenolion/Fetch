@@ -96,15 +96,15 @@ const Footer = () => {
             <h3 className="text-lg font-semibold">Contact Info</h3>
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
-                <Mail className="h-4 w-4 text-blue-400" />
+                <Mail className="h-4 w-4 text-green-400" />
                 <span className="text-gray-300 text-sm">{mockData.contact.email}</span>
               </div>
               <div className="flex items-center space-x-3">
-                <Phone className="h-4 w-4 text-blue-400" />
+                <Phone className="h-4 w-4 text-green-400" />
                 <span className="text-gray-300 text-sm">{mockData.contact.phone}</span>
               </div>
               <div className="flex items-center space-x-3">
-                <MapPin className="h-4 w-4 text-blue-400" />
+                <MapPin className="h-4 w-4 text-green-400" />
                 <span className="text-gray-300 text-sm">{mockData.contact.address}</span>
               </div>
             </div>
