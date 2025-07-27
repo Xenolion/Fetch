@@ -22,16 +22,16 @@ const Footer = () => {
               Make your group events transparent and stress-free.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-blue-400 transition-colors duration-200">
+              <a href="#" className="text-gray-400 hover:text-green-400 transition-colors duration-200">
                 <Facebook className="h-5 w-5" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-blue-400 transition-colors duration-200">
+              <a href="#" className="text-gray-400 hover:text-green-400 transition-colors duration-200">
                 <Twitter className="h-5 w-5" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-blue-400 transition-colors duration-200">
+              <a href="#" className="text-gray-400 hover:text-green-400 transition-colors duration-200">
                 <Instagram className="h-5 w-5" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-blue-400 transition-colors duration-200">
+              <a href="#" className="text-gray-400 hover:text-green-400 transition-colors duration-200">
                 <Linkedin className="h-5 w-5" />
               </a>
             </div>
