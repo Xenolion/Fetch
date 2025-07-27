@@ -4,11 +4,11 @@ export const mockData = {
   app: {
     name: "Michango App",
     tagline: "Simplify Event Planning with Smart Contributions",
-    description: "The ultimate platform to manage group contributions for events, trips, and celebrations. Make planning effortless and transparent.",
+    description: "The ultimate platform to manage group contributions for events, trips, and celebrations. Share directly to WhatsApp and make planning effortless and transparent.",
     playStoreUrl: "https://play.google.com/store/apps/details?id=com.michango.app",
     features: [
       "Real-time contribution tracking",
-      "Transparent expense management", 
+      "WhatsApp sharing integration", 
       "Group event planning",
       "Secure payment processing"
     ]
@@ -22,9 +22,9 @@ export const mockData = {
     },
     {
       id: 2,
-      title: "Expense Transparency",
-      description: "Keep everyone informed with real-time updates on how contributions are being used.",
-      icon: "PieChart"
+      title: "WhatsApp Integration",
+      description: "Share contribution requests and updates directly to WhatsApp groups with one tap.",
+      icon: "MessageCircle"
     },
     {
       id: 3,
@@ -34,9 +34,9 @@ export const mockData = {
     },
     {
       id: 4,
-      title: "Group Planning Tools",
-      description: "Collaborate with your group to plan the perfect event with built-in planning features.",
-      icon: "Calendar"
+      title: "Real-time Updates",
+      description: "Get instant notifications and share progress updates with your WhatsApp groups.",
+      icon: "Zap"
     }
   ],
   contact: {
@@ -54,14 +54,14 @@ export const mockData = {
       id: 1,
       name: "Sarah Johnson",
       role: "Event Organizer",
-      content: "Michango made organizing our company retreat so much easier. Everyone could see exactly where their money was going!",
+      content: "Michango made organizing our company retreat so much easier. The WhatsApp sharing feature kept everyone updated instantly!",
       rating: 5
     },
     {
       id: 2,
       name: "David Kimani",
       role: "Wedding Planner",
-      content: "This app transformed how we handle group contributions. No more awkward money conversations!",
+      content: "Being able to share contribution requests directly to our WhatsApp group saved us so much time. No more awkward money conversations!",
       rating: 5
     }
   ],
