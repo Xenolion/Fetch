@@ -12,7 +12,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
-              <div className="bg-gradient-to-r from-blue-600 to-blue-700 p-2 rounded-lg">
+              <div className="bg-gradient-to-r from-emerald-500 to-green-600 p-2 rounded-lg">
                 <Smartphone className="h-6 w-6 text-white" />
               </div>
               <span className="text-xl font-bold">{mockData.app.name}</span>
